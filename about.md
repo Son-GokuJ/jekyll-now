@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+### Hello World !
+This is my first try at travell-blogging !
 
-Some information about you!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[songoku241991@gmail.com](mailto:songoku241991@gmail.com)
